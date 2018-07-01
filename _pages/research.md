@@ -8,4 +8,4 @@ permalink: /projects/
 
 # Projects
 
-
+Not sure exactly how to format this page yet, maybe individual blocks?
