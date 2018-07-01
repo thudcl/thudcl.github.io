@@ -15,7 +15,7 @@
   education1: Master
   education2: PhD
   
-  - name: Student C. Student
+- name: Student C. Student
   photo: rock.jpg
   info: Student, started X 20XX
   email: abc@xyz.com
