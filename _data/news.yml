@@ -1,8 +1,8 @@
 - date: 04. June 2018
-  headline: "ArXiv link <a href='https://arxiv.org/abs/1806.00374'>arXiv</a>. <img src='/images/newspic/amp.PNG' class='img-responsive' style='max-width: 192px' />"
+  headline: "ArXiv link <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>arXiv</a>. <img src='/images/newspic/amp.PNG' class='img-responsive' style='max-width: 192px' />"
 
 - date: 16. May 2018
-  headline: "Youtube Link example <a href='https://youtu.be/hxz22AYUGhM'>Link Title</a>."
+  headline: "Youtube Link example <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>Link Title</a>."
 
 - date: 4. May 2018
   headline: "Welcome New member!"
