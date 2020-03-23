@@ -7,20 +7,18 @@ permalink: /people/faculty
 
 # Faculty Name
 
-## Education
+### Education
 
-## Academic Appointments
+### Academic Appointments
 
-## Research Interests
+### Research Interests
 
-## Publications
+### Publications
 
-## Grants
+### Grants
 
-## Teaching
+#### Teaching
 
-## Advising
-
-## Service 
+### Service 
 
 
