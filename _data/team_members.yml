@@ -1,5 +1,5 @@
 - name: Xun Pang
-  photo: rock.jpg
+  photo: xunpang.png
   info: Founding Director
   email: abc@xyz.com
   number_educ: 3
@@ -8,7 +8,7 @@
   education3: BA 
 
 - name: Haixia QI
-  photo: rock.jpg
+  photo: haixiaqi.jpeg
   info: Chairman of the Scientific Committee
   email: abc@xyz.com
   number_educ: 3
@@ -17,7 +17,7 @@
   education3: BA 
   
 - name: Chong Chen
-  photo: rock.jpg
+  photo: chong.jpeg
   info: Executive Director
   email: abc@xyz.com
   number_educ: 2
