@@ -5,7 +5,7 @@
   number_educ: 3
   education1: PhD, <a href="https://polisci.wustl.edu/">Washington University in St. Louis</a> 
   education2: Specialties&colon; Political Methodology&semi; International Political Economy
-  education3: Personal Website 
+  education3: <a href="http://www.dir.tsinghua.edu.cn/publish/iren/2428/2012/20121010090403338843190/20121010090403338843190_.html">Personal Website</a> 
 
 - name: Haixia QI
   photo: haixiaqi.jpeg
@@ -14,7 +14,7 @@
   number_educ: 3
   education1: PhD, <a href="http://www.dir.tsinghua.edu.cn/">Tsinghua University</a>
   education2: Specialties&colon; China’s foreign policy&semi; Conflict resolution and mediation&semi; Big Data International Relations&semi; Game theory
-  education3: <a href="https://thudcl.github.io/people/faculty">Personal Website</a>
+  education3: <a href="http://www.dir.tsinghua.edu.cn/publish/iren/2428/2010/20101216142133895111413/20101216142133895111413_.html">Personal Website</a>
   
 - name: Chong CHEN
   photo: chong.jpeg
@@ -32,4 +32,4 @@
   number_educ: 3
   education1: PhD, <a href="https://www.utwente.nl/en/">University of Twente</a>
   education2: Specialties&colon; International Relations&semi; Political Methodology
-  education3: Personal Website
+  education3: <a href="https://thudcl.github.io/people/faculty">Personal Website</a>
