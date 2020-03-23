@@ -4,7 +4,7 @@
   email: xpang@tsinghua.edu.cn
   number_educ: 3
   education1: PhD, <a href="https://polisci.wustl.edu/">Washington University in St. Louis</a> 
-  education2: Specialties--Political Methodology, International Political Economy
+  education2: Specialties<&colon;>Political Methodology, International Political Economy
   education3: Personal Website 
 
 - name: Haixia QI
@@ -32,4 +32,4 @@
   number_educ: 3
   education1: PhD, <a href="https://www.utwente.nl/en/">University of Twente</a>
   education2: Specialties--International Relations, Political Methodology
-  education3: Personal Website3
+  education3: Personal Website
