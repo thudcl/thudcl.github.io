@@ -14,12 +14,13 @@ permalink: /contact/
 
   </div>
   <div class="col-md-4" markdown="1">
-  **Address**: 313 Mingzhai Hall<br>
+  **Address**:<br>
+               313 Mingzhai Hall<br>
                School of Social Science<br>
                Tsinghua University<br>
                Haidian District, Beijing<br>
                China 100084<br>
-  **Email**： [thudcl@163.com](thudcl@163.com)<br>
+  **Email**：[thudcl@163.com](thudcl@163.com)<br>
   
   **通讯地址**:<br>
                北京市海淀区清华大学<br>
