@@ -17,7 +17,7 @@ permalink: /people/faculty
 
 ### Grants
 
-#### Teaching
+### Teaching
 
 ### Service 
 
