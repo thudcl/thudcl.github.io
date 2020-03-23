@@ -1,24 +1,24 @@
 - name: Xun Pang
   photo: xunpang.png
-  info: Founding Director
+  info: Professor and Founding Director
   email: abc@xyz.com
   number_educ: 3
   education1: PhD in <a href="https://polisci.wustl.edu/">Political Science</a>, Washington University in St. Louis
   education2: MA 
-  education3: BA 
+  education3: Personal Webpage 
 
 - name: Haixia QI
   photo: haixiaqi.jpeg
-  info: Chairman of the Scientific Committee
+  info: Associate Professor and Chairman of the Scientific Committee
   email: abc@xyz.com
   number_educ: 3
   education1: PhD in <a href="http://www.dir.tsinghua.edu.cn/">Political Science</a>, Tsinghua University 
   education2: MA 
-  education3: BA 
+  education3: Personal Webpage 
   
 - name: Chong Chen
   photo: chong.jpeg
-  info: Executive Director
+  info: Assistant Professor and Executive Director
   email: chongchen@tsinghua.edu.cn
   number_educ: 2
   education1: PhD in <a href="https://polisci.duke.edu/">Political Science</a>, Duke University
@@ -26,8 +26,8 @@
   
 - name: Qingqian HE
   photo: heqingqian.jpeg
-  info: Executive Director
+  info: Postdoc and Executive Director
   email: XX@tsinghua.edu.cn
   number_educ: 2
   education1: PhD in <a href="https://www.utwente.nl/en/">Political Science</a>, University of Twente
-  education2: MA
+  education2: Personal Webpage
