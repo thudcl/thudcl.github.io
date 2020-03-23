@@ -1,7 +1,7 @@
 ---
-title: "Test Lab - Contact"
+title: "DCL Lab - Contact"
 layout: textlay
-excerpt: "Test Lab Contact."
+excerpt: "DCL Lab Contact."
 sitemap: false
 permalink: /contact/
 ---
