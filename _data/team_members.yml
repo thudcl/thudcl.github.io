@@ -2,30 +2,34 @@
   photo: xunpang.png
   info: Professor and Founding Director
   email: xpang@tsinghua.edu.cn
-  number_educ: 2
+  number_educ: 3
   education1: PhD, <a href="https://polisci.wustl.edu/">Washington University in St. Louis</a> 
-  education2: Personal Website 
+  education2: Specialties: Political Methodology; International Political Economy
+  education3: Personal Website 
 
 - name: Haixia QI
   photo: haixiaqi.jpeg
   info: Associate Professor and Chairman of the Scientific Committee
   email: qihaixia@tsinghua.edu.cn
-  number_educ: 2
+  number_educ: 3
   education1: PhD, <a href="http://www.dir.tsinghua.edu.cn/">Tsinghua University</a>
-  education2: Personal Website 
+  education2: Specialties: China’s foreign policy; Conflict resolution and mediation; Big Data International Relations; Game theory
+  education3: Personal Website 
   
 - name: Chong CHEN
   photo: chong.jpeg
   info: Assistant Professor and Executive Director
   email: chongchen@tsinghua.edu.cn
-  number_educ: 2
+  number_educ: 3
   education1: PhD, <a href="https://polisci.duke.edu/">Duke University</a>
-  education2: <a href="https://cc458.github.io/">Personal Website</a>
+  education2: Specialties: Security, Peace, Conflict; Political Methodology
+  education3: <a href="https://cc458.github.io/">Personal Website</a>
   
 - name: Qingqian HE
   photo: heqingqian.jpeg
   info: Post-doc and Executive Director
   email: qingqian@tsinghua.edu.cn
-  number_educ: 2
+  number_educ: 3
   education1: PhD, <a href="https://www.utwente.nl/en/">University of Twente</a>
-  education2: Personal Website
+  education2: International Relations; Political Methodology
+  education3: Personal Website3
