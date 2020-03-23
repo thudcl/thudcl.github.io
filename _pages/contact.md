@@ -6,7 +6,7 @@ sitemap: false
 permalink: /contact/
 ---
 
-Contact Page with map
+# Contact Information
 
 <div class="row">
   <div class="col-md-8" markdown="1">
@@ -14,7 +14,11 @@ Contact Page with map
 
   </div>
   <div class="col-md-4" markdown="1">
-  Address
+  **Address**: 313 Mingzhai Hall, School of Social Science<br>
+                Tsinghua University<br>
+                Haidian District, Beijing<br>
+                China 100084<br>
+  **Email**： [thudcl@163.com](thudcl@163.com)
   </div>
 </div>
 
