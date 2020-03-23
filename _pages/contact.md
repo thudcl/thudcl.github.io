@@ -14,11 +14,11 @@ permalink: /contact/
 
   </div>
   <div class="col-md-4" markdown="1">
-  **Address**: <br/>313 Mingzhai Hall<br>
-               <br/>School of Social Science<br>
-               <br/>Tsinghua University<br>
-               <br/>Haidian District, Beijing<br>
-               <br/>China 100084<br>
+  **Address**: 313 Mingzhai Hall<br>
+               School of Social Science<br>
+               Tsinghua University<br>
+               Haidian District, Beijing<br>
+               China 100084<br>
   **Email**： [thudcl@163.com](thudcl@163.com)
   </div>
 </div>
