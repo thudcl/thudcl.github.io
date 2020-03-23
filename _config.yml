@@ -6,12 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
-email: your-email@domain.com
+title: The International Relations Data and Computing Lab @ Tsinghua
+email: thudcl@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Tsinghua International Relations Data and Computing Lab (THU-DCL) is a dynamic research group at Tsinghua University. Our aim is to explore and understand the complexity of international relations data and methods.
 baseurl: ""
 url: ""
 
