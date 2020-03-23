@@ -1,5 +1,5 @@
 ---
-title: "DCL Lab - People"
+title: "DCL Lab - Qingqian He"
 layout: textlay
 excerpt: "DCL Lab: Team members"
 permalink: /people/qingqian_he
