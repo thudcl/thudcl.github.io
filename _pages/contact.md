@@ -21,8 +21,9 @@ permalink: /contact/
                China 100084<br>
   **Email**： [thudcl@163.com](thudcl@163.com)<br>
   
-  **通讯地址**: 北京市海淀区清华大学<br>
-               社会科学学院明斋313e<br>
+  **通讯地址**:<br>
+               北京市海淀区清华大学<br>
+               社会科学学院明斋313<br>
                邮编 100084<br>
   </div>
 </div>
