@@ -5,7 +5,7 @@ excerpt: "DCL Lab: Team members"
 permalink: /people/qingqian_he
 ---
 
-# Faculty Name
+# Dr. Qingqian HE
 
 ### Education
 
