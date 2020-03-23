@@ -3,7 +3,7 @@
   info: Founding Director
   email: abc@xyz.com
   number_educ: 3
-  education1: PhD 
+  education1: PhD in <a href="https://polisci.wustl.edu/">Political Science</a>, Washington University in St. Louis
   education2: MA 
   education3: BA 
 
@@ -12,14 +12,14 @@
   info: Chairman of the Scientific Committee
   email: abc@xyz.com
   number_educ: 3
-  education1: PhD 
+  education1: PhD in <a href="http://www.dir.tsinghua.edu.cn/">Political Science</a>, Tsinghua University 
   education2: MA 
   education3: BA 
   
 - name: Chong Chen
-  photo: chong.jpg
+  photo: chong.jpeg
   info: Executive Director
-  email: abc@xyz.com
+  email: chongchen@tsinghua.edu.cn
   number_educ: 2
   education1: PhD in <a href="https://polisci.duke.edu/">Political Science</a>, Duke University
   education2: <a href="https://cc458.github.io/">Personal Webpage</a>
