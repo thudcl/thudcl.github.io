@@ -2,7 +2,7 @@
 title: "DCL Lab - People"
 layout: textlay
 excerpt: "DCL Lab: Team members"
-permalink: /people/faculty
+permalink: /people/qingqian_he
 ---
 
 # Faculty Name
