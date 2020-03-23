@@ -3,7 +3,7 @@ title: "DCL Lab - Courses"
 layout: textlay
 excerpt: "DCL Lab - Courses"
 sitemap: false
-permalink: /courses/
+permalink: /courses
 ---
 
 # Courses
