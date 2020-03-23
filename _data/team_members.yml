@@ -21,5 +21,5 @@
   info: Executive Director
   email: abc@xyz.com
   number_educ: 2
-  education1: PhD 
-  education2: MA 
+  education1: PhD in <a href="https://polisci.duke.edu/">Political Science</a>, Duke University
+  education2: <a href="https://cc458.github.io/">Personal Webpage</a>
