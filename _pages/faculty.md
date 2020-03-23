@@ -7,6 +7,20 @@ permalink: /people/faculty
 
 # Faculty Name
 
-## First, Last
+## Education
+
+## Academic Appointments
+
+## Research Interests
+
+## Publications
+
+## Grants
+
+## Teaching
+
+## Advising
+
+## Service 
 
 
