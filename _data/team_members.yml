@@ -4,7 +4,7 @@
   email: xpang@tsinghua.edu.cn
   number_educ: 2
   education1: PhD, <a href="https://polisci.wustl.edu/">Washington University in St. Louis</a> 
-  education2: Personal Webpage 
+  education2: Personal Website 
 
 - name: Haixia QI
   photo: haixiaqi.jpeg
@@ -12,7 +12,7 @@
   email: qihaixia@tsinghua.edu.cn
   number_educ: 2
   education1: PhD, <a href="http://www.dir.tsinghua.edu.cn/">Tsinghua University</a>
-  education3: Personal Webpage 
+  education2: Personal Website 
   
 - name: Chong CHEN
   photo: chong.jpeg
@@ -20,7 +20,7 @@
   email: chongchen@tsinghua.edu.cn
   number_educ: 2
   education1: PhD, <a href="https://polisci.duke.edu/">Duke University</a>
-  education2: <a href="https://cc458.github.io/">Personal Webpage</a>
+  education2: <a href="https://cc458.github.io/">Personal Website</a>
   
 - name: Qingqian HE
   photo: heqingqian.jpeg
@@ -28,4 +28,4 @@
   email: qingqian@tsinghua.edu.cn
   number_educ: 2
   education1: PhD, <a href="https://www.utwente.nl/en/">University of Twente</a>
-  education2: Personal Webpage
+  education2: Personal Website
