@@ -3,24 +3,23 @@
   info: Founding Director
   email: abc@xyz.com
   number_educ: 3
-  education1: PhD (Washington University in St. Louis)
-  education2: MA (Peking University)
-  education3: BA (Peking University)
+  education1: PhD 
+  education2: MA 
+  education3: BA 
 
 - name: Haixia QI
   photo: rock.jpg
   info: Chairman of the Scientific Committee
   email: abc@xyz.com
   number_educ: 3
-  education1: PhD (Tsinghua University)
-  education2: MA (Renmin University of China)
-  education3: BA (Renmin University of China)
+  education1: PhD 
+  education2: MA 
+  education3: BA 
   
 - name: Chong Chen
   photo: rock.jpg
   info: Executive Director
   email: abc@xyz.com
-  number_educ: 3
-  education1: PhD (Duke University)
-  education2: MA (Utah State University)
-  education3: Web: http://cc458.github.io
+  number_educ: 2
+  education1: PhD 
+  education2: MA 
