@@ -56,6 +56,7 @@ The **DCL Lab@Tsinghua** is an applied learning environment that connects facult
           color="green"> 
           We have three broad missions: 
         </font> 
+        
 
 - **Research**  (see [Projects](projects)).
 
@@ -65,17 +66,10 @@ The **DCL Lab@Tsinghua** is an applied learning environment that connects facult
 
 In fulfilling these missions, we bring together scholars and students attuned to the research frontier and with advanced capabilities in causal inference, applied statistics, programming, web scraping and geospatial analysis.
 
-We are located in the [Department of International Relations](http://www.dir.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in Beijing, China. 
+The **DCL Lab@Tsinghua** is generously supported by the [Department of International Relations](http://www.dir.tsinghua.edu.cn/) and the [School of Social Sciences](http://www.sss.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in Beijing, China. 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tsinghua.jpeg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/header.png" style="width: 210px">
 </figure>
-
-
-
-
-
-
