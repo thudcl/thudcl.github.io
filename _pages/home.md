@@ -1,5 +1,5 @@
 ---
-title: "DCL Lab - Home"
+title: "DCLab - Home"
 layout: homelay
 excerpt: "Tsinghua International Relations Data & Computing Lab."
 sitemap: false
@@ -49,7 +49,7 @@ permalink: /
   </a>
 </div>
 
-The **DCL Lab@Tsinghua** is an applied learning environment that connects faculty and graduate students from several departments and schools at Tsinghua and elsewhere who have extensive experience in both quantitative international political economy and international security, including a broad range of research questions in the areas of foreign aid, trade, FDI, armed conflict, political violence and arms sales.
+The **DCLab@Tsinghua** is an applied learning environment that connects faculty and graduate students from several departments and schools at Tsinghua and elsewhere who have extensive experience in both quantitative international political economy and international security, including a broad range of research questions in the areas of foreign aid, trade, FDI, armed conflict, political violence and arms sales.
 
 <font size="4"
           face="verdana"
@@ -66,7 +66,7 @@ The **DCL Lab@Tsinghua** is an applied learning environment that connects facult
 
 In fulfilling these missions, we bring together scholars and students attuned to the research frontier and with advanced capabilities in causal inference, applied statistics, programming, web scraping and geospatial analysis.
 
-The **DCL Lab@Tsinghua** is generously supported by the [Department of International Relations](http://www.dir.tsinghua.edu.cn/) and the [School of Social Sciences](http://www.sss.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in Beijing, China. 
+The **DCLab@Tsinghua** is generously supported by the [Department of International Relations](http://www.dir.tsinghua.edu.cn/) and the [School of Social Sciences](http://www.sss.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in Beijing, China. 
 
 
 <figure class="fourth">
