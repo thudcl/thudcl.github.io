@@ -53,21 +53,19 @@ We are a dynamic research group in the [Department of International Relations](h
 
 The **DCL Lab@Tsinghua** is an applied learning environment that connects faculty and graduate students from several departments and schools at Tsinghua and elsewhere who have extensive experience in both quantitative international political economy and international security, including a broad range of research questions in the areas of foreign aid, trade, FDI, armed conflict, political violence and arms sales.
 
-<font size="12"
+<font size="8"
           face="verdana"
           color="green"> 
             We have four broad goals: 
         </font> 
-    <br> 
 
+- To give timely input to development practitioners—both donors and implementers—at all stages of project conceptualization, design, implementation and evaluation.
 
-To give timely input to development practitioners—both donors and implementers—at all stages of project conceptualization, design, implementation and evaluation.
+- To promote rigorous M&E standards and a strong research foundation for development policy and thereby serve Duke’s mission of developing “knowledge in service to society.”
 
-To promote rigorous M&E standards and a strong research foundation for development policy and thereby serve Duke’s mission of developing “knowledge in service to society.”
+- To bring together and build the Duke community of faculty who are working on applied development, as well as community members outside of international development with expertise pertinent to the tools of rigorous impact evaluation (e.g. engineers, doctors, computer scientists, psychologists).
 
-To bring together and build the Duke community of faculty who are working on applied development, as well as community members outside of international development with expertise pertinent to the tools of rigorous impact evaluation (e.g. engineers, doctors, computer scientists, psychologists).
-
-To provide hands-on training opportunities for graduate students and post-docs embarking on careers in international development.
+- To provide hands-on training opportunities for graduate students and post-docs embarking on careers in international development.
 
 We develop novel methods scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Projects](projects)).
 
