@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group in the [Department of International Relations](http://www.dir.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in Beijing, China. Our aim is to explore and understand XX.
+We are a dynamic research group in the [Department of International Relations](http://www.dir.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in Beijing, China. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -51,20 +51,30 @@ We are a dynamic research group in the [Department of International Relations](h
   </a>
 </div>
 
+The **DCL Lab@Tsinghua** is an applied learning environment that connects faculty and graduate students from several departments and schools at Tsinghua and elsewhere who have extensive experience in both quantitative international political economy and international security, including a broad range of research questions in the areas of foreign aid, trade, FDI, armed conflict, political violence and arms sales.
+
+<font size="12"
+          face="verdana"
+          color="green"> 
+            We have four broad goals: 
+        </font> 
+    <br> 
 
 
+To give timely input to development practitioners—both donors and implementers—at all stages of project conceptualization, design, implementation and evaluation.
 
+To promote rigorous M&E standards and a strong research foundation for development policy and thereby serve Duke’s mission of developing “knowledge in service to society.”
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+To bring together and build the Duke community of faculty who are working on applied development, as well as community members outside of international development with expertise pertinent to the tools of rigorous impact evaluation (e.g. engineers, doctors, computer scientists, psychologists).
+
+To provide hands-on training opportunities for graduate students and post-docs embarking on careers in international development.
+
+We develop novel methods scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Projects](projects)).
 
 We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-Funding Section from previous lab page:
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tsinghua.jpeg" style="width: 210px">
