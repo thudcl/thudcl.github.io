@@ -1,7 +1,7 @@
 ---
-title: "DCL Lab - Events"
+title: "DCLab - Events"
 layout: textlay
-excerpt: "DCL Lab - Events"
+excerpt: "DCLab - Events"
 sitemap: false
 permalink: /events.html
 ---
