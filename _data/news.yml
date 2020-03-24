@@ -1,11 +1,14 @@
-- date: 6. March 2020
+- date: March 25, 2020
+  headline: "**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**"
+
+- date: March 24, 2020
   headline: "Welcome to our new lab website. Welcome to our new lab website  <a href='https://arxiv.org/abs/2002.02289'>See Lisi, Lu, Benschop, de Jong et al.<img src='/images/newspic/amp.PNG' class='img-responsive' style='max-width: 192px' /> </a>!"
 
-- date: 04. June 2018
+- date: June 16, 2018
   headline: "ArXiv link <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>arXiv</a>. <img src='/images/newspic/amp.PNG' class='img-responsive' style='max-width: 192px' />"
 
-- date: 16. May 2018
+- date: May 2, 2018
   headline: "Youtube Link example <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>Link Title</a>."
 
-- date: 4. May 2018
+- date: May 1, 2018
   headline: "Welcome New member!"
