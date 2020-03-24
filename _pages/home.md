@@ -55,9 +55,9 @@ The **DCLab@Tsinghua** is an applied learning environment that connects faculty 
           face="verdana"
           color="green"> 
           We have three broad missions: 
-        </font> 
+        </font>
+        <br>  
         
-
 - **Research**  (see [Projects](projects)).
 
 - **Teaching** (see [Courses](courses))
