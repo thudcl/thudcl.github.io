@@ -1,7 +1,7 @@
 ---
-title: "DCL Lab - People"
+title: "DCLab - People"
 layout: gridlay
-excerpt: "DCL Lab: Team members"
+excerpt: "DCLab: Team members"
 sitemap: false
 permalink: /people/
 ---
