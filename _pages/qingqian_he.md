@@ -1,7 +1,7 @@
 ---
-title: "DCL Lab - Qingqian He"
+title: "DCLab - Qingqian He"
 layout: textlay
-excerpt: "DCL Lab: Team members"
+excerpt: "DCLab: Team members"
 permalink: /people/qingqian_he
 ---
 
