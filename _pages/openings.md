@@ -1,5 +1,5 @@
 ---
-title: "DCL Lab - Openings"
+title: "DCLab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
