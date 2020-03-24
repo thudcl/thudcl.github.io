@@ -27,16 +27,16 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Tsinghua.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mingzhai.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Tsinghua.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpeg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Tsinghua.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab_2.jpeg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Tsinghua.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab_3.jpeg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Tsinghua.jpg" alt="Slide 6" />
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -52,10 +52,10 @@ permalink: /
 The **DCLab@Tsinghua** is an applied learning environment that connects faculty and graduate students from several departments and schools at Tsinghua and elsewhere who have extensive experience in both quantitative international political economy and international security, including a broad range of research questions in the areas of foreign aid, trade, FDI, armed conflict, political violence and arms sales.
 
 <font size="4"
-          face="verdana"
-          color="green"> 
-          We have three broad missions:<br>  
-        </font>
+face="verdana"
+color="green"> 
+We have three broad missions:<br> 
+</font>
         
         
 - **Research**  (see [Projects](projects))
@@ -63,6 +63,7 @@ The **DCLab@Tsinghua** is an applied learning environment that connects faculty 
 - **Teaching** (see [Courses](courses))
 
 - **Service**  (see [Events](events))
+
 
 In fulfilling these missions, we bring together scholars and students attuned to the research frontier and with advanced capabilities in causal inference, applied statistics, programming, web scraping and geospatial analysis.
 
