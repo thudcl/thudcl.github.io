@@ -51,17 +51,17 @@ permalink: /
 
 The **DCL Lab@Tsinghua** is an applied learning environment that connects faculty and graduate students from several departments and schools at Tsinghua and elsewhere who have extensive experience in both quantitative international political economy and international security, including a broad range of research questions in the areas of foreign aid, trade, FDI, armed conflict, political violence and arms sales.
 
-<font size="3"
+<font size="4"
           face="verdana"
           color="green"> 
           We have three broad missions: 
         </font> 
 
-- **Research**  To give timely input to development practitioners—both donors and implementers—at all stages of project conceptualization, design, implementation and evaluation (see [Projects](projects)).
+- **Research**  (see [Projects](projects)).
 
-- **Teaching**  To promote rigorous M&E standards and a strong research foundation for development policy and thereby serve Duke’s mission of developing “knowledge in service to society.”(see [Courses](courses))
+- **Teaching** (see [Courses](courses))
 
-- **Service**  To bring together and build the Duke community of faculty who are working on applied development, as well as community members outside of international development with expertise pertinent to the tools of rigorous impact evaluation (e.g. engineers, doctors, computer scientists, psychologists).(see [Events](events))
+- **Service**  (see [Events](events))
 
 In fulfilling these missions, we bring together scholars and students attuned to the research frontier and with advanced capabilities in causal inference, applied statistics, programming, web scraping and geospatial analysis.
 
