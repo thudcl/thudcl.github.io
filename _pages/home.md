@@ -49,30 +49,27 @@ permalink: /
   </a>
 </div>
 
-
 The **DCL Lab@Tsinghua** is an applied learning environment that connects faculty and graduate students from several departments and schools at Tsinghua and elsewhere who have extensive experience in both quantitative international political economy and international security, including a broad range of research questions in the areas of foreign aid, trade, FDI, armed conflict, political violence and arms sales.
 
-<font size="6"
+<font size="3"
           face="verdana"
           color="green"> 
-            We have four broad goals: 
+          We have three broad missions: 
         </font> 
 
-- To give timely input to development practitioners—both donors and implementers—at all stages of project conceptualization, design, implementation and evaluation.
+- **Research**  To give timely input to development practitioners—both donors and implementers—at all stages of project conceptualization, design, implementation and evaluation (see [Projects](projects)).
 
-- To promote rigorous M&E standards and a strong research foundation for development policy and thereby serve Duke’s mission of developing “knowledge in service to society.”
+- **Teaching**  To promote rigorous M&E standards and a strong research foundation for development policy and thereby serve Duke’s mission of developing “knowledge in service to society.”(see [Courses](courses))
 
-- To bring together and build the Duke community of faculty who are working on applied development, as well as community members outside of international development with expertise pertinent to the tools of rigorous impact evaluation (e.g. engineers, doctors, computer scientists, psychologists).
+- **Service**  To bring together and build the Duke community of faculty who are working on applied development, as well as community members outside of international development with expertise pertinent to the tools of rigorous impact evaluation (e.g. engineers, doctors, computer scientists, psychologists).(see [Events](events))
 
-- To provide hands-on training opportunities for graduate students and post-docs embarking on careers in international development.
-
-We develop novel methods scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Projects](projects)).
+In fulfilling these missions, we bring together scholars and students attuned to the research frontier and with advanced capabilities in causal inference, applied statistics, programming, web scraping and geospatial analysis.
 
 We are located in the [Department of International Relations](http://www.dir.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in Beijing, China. 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-<figure class="row">
+<figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tsinghua.jpeg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/header.png" style="width: 210px">
 </figure>
