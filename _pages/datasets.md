@@ -1,7 +1,7 @@
 ---
-title: "DCL Lab - DataSets"
+title: "DCLab - DataSets"
 layout: textlay
-excerpt: "DCL Lab -- DataSets"
+excerpt: "DCLab -- DataSets"
 sitemap: false
 permalink: /datasets/
 ---
