@@ -1,7 +1,7 @@
 ---
-title: "DCL Lab - Courses"
+title: "DCLab - Courses"
 layout: textlay
-excerpt: "DCL Lab - Courses"
+excerpt: "DCLab - Courses"
 sitemap: false
 permalink: /courses
 ---
