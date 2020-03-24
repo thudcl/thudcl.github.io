@@ -1,7 +1,7 @@
 ---
-title: "DCL Lab - Projects"
+title: "DCLab - Projects"
 layout: textlay
-excerpt: "DCL Lab -- Projects"
+excerpt: "DCLab - Projects"
 sitemap: false
 permalink: /projects/
 ---
