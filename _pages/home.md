@@ -72,5 +72,6 @@ The **DCLab@Tsinghua** is generously supported by the [Department of Internation
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tsinghua.jpeg" style="width: 210px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/header.png" style="width: 210px">
 </figure>
