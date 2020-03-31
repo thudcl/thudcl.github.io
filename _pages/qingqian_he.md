@@ -23,17 +23,20 @@ XX is a PhD student specializing in XXX..
 
 #### Education
 
-- XX is a PhD student specializing in XXX..
+- PhD in XXX, University of XXX, 2015-2020
 
-- XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX...XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..
+- PhD in XXX, University of XXX, 2015-2020
+
+- PhD in XXX, University of XXX, 2015-2020
 
 #### Research
 
 
-
 - XX is a PhD student specializing in XXX..
 
-- XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX...XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..
+- XX is a PhD student specializing in XXX..XX 
+
+- XX is a PhD student specializing in XXX...
 
 
 
