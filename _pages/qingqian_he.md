@@ -38,11 +38,16 @@ XX is a PhD student specializing in XXX..
 - XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX...XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..
 
 
+
 #### Service 
 
 - XX is a PhD student specializing in XXX..
 
 - XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX...XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..
+
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg){: style="width: 40%; float: right class="ribbon""}
+
+
 
 
 
