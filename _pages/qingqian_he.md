@@ -13,15 +13,11 @@ Dr. Qingqian HE<br>
 
 #### Bio
 
-<div id="content">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg" class="ribbon"/>
-    <div>some text...</div>
-</div>
+> *.colored[XX is a PhD student specializing in XXX.. The simple graph has brought more information to the data analyst’s mind than any other device." — John Tukey]*
 
-XX is a PhD student specializing in XXX.
 
 <figure class="ribbon">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg" style="width: 47%; float: right; border: 10px">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg" style="width: 40%; float: right; border: 10px">
 </figure>
 
 #### Education
