@@ -11,7 +11,9 @@ color="green">
 Dr. Qingqian HE:<br> 
 </font>
 
+XX is a PhD student specializing in XXX.
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"
 
 #### Education
 
