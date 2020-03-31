@@ -13,7 +13,7 @@ Dr. Qingqian HE<br>
 
 #### Bio
 
-> *.colored[XX is a PhD student specializing in XXX.. The simple graph has brought more information to the data analyst’s mind than any other device." — John Tukey]*
+> *XX is a PhD student specializing in XXX.. XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX.." *
 
 
 <figure class="ribbon">
@@ -21,6 +21,8 @@ Dr. Qingqian HE<br>
 </figure>
 
 #### Education
+
+XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..
 
 #### Research
 
