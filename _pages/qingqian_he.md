@@ -11,18 +11,12 @@ color="green">
 Dr. Qingqian HE:<br> 
 </font>
 
-### Education
 
-### Academic Appointments
 
-### Research Interests
+#### Education
 
-### Publications
+#### Research
 
-### Grants
-
-### Teaching
-
-### Service 
+#### Service 
 
 
