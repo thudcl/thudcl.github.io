@@ -11,18 +11,17 @@ color="green">
 Dr. Qingqian HE<br> 
 </font>
 
+<figure class="ribbon">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg" style="width: 40%; float: right; border: 5px">
+</figure>
+
 #### Bio
 
 > XX is a PhD student specializing in XXX.. XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..
 
-
-<figure class="ribbon">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg" style="width: 40%; float: right; border: 10px">
-</figure>
-
 #### Education
 
-XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..
+XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX...XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..
 
 #### Research
 
