@@ -29,9 +29,7 @@ XX is a PhD student specializing in XXX..
 
 #### Research
 
-<figure class="ribbon">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg" style="width: 40%; float: right">
-</figure>
+
 
 - XX is a PhD student specializing in XXX..
 
@@ -45,7 +43,7 @@ XX is a PhD student specializing in XXX..
 
 - XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX...XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..
 
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg){: style="width: 40%; float: right class="ribbon""}
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg){: style="width: 30%; float: right class="ribbon""}
 
 
 
