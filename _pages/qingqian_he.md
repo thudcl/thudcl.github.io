@@ -13,7 +13,6 @@ Dr. Qingqian HE<br>
 
 <div id="content">
    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg" class="ribbon" style="width: 40%; float: right">
-   <img src="images/ribbon.png" class="ribbon"/>
 </div>
 
 
