@@ -15,9 +15,9 @@ Our overarching goal is to explore and understand new quantum states of electron
 A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
 
 
-# Empirical International Relations (EIR) Workshop Series 
+# Working Group on Empirical International Studies (WGEIS) 
 
-**EIR** is a biannual workshop that brings together scholars in the North China that use rigorous, creative empirical methods to study important topics in international relations.
+**WGEIS** is a biannual workshop that brings together scholars in the North China that use rigorous, creative empirical methods to study important topics in international relations.
 
 
 # Speaker Series
