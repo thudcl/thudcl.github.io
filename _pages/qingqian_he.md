@@ -27,6 +27,16 @@ XX is a PhD student specializing in XXX.. XX is a PhD student specializing in XX
 
 #### Research
 
+- XX is a PhD student specializing in XXX..
+
+- XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX...XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..
+
+
 #### Service 
+
+- XX is a PhD student specializing in XXX..
+
+- XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX...XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..XX is a PhD student specializing in XXX..
+
 
 
