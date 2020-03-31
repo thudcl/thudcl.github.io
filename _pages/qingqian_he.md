@@ -13,6 +13,20 @@ Dr. Qingqian HE<br>
 
 #### Bio
 
+#content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+<div id="content">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg" class="ribbon"/>
+    <div>some text...</div>
+</div>
+
 XX is a PhD student specializing in XXX.
 
 <figure>
