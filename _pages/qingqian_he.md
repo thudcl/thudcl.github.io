@@ -15,8 +15,8 @@ Dr. Qingqian HE<br>
 
 XX is a PhD student specializing in XXX.
 
-<figure class="fourth">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg" style="width: 110px; float: right; border: 10px">
+<figure>
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sss.jpeg" style="width: 47%; float: right; border: 10px">
 </figure>
 
 #### Education
