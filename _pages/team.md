@@ -224,9 +224,6 @@ permalink: /people/
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
   <ul style="overflow: hidden">
 
-  </ul>
-</div>
-
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
