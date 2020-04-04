@@ -71,8 +71,6 @@ permalink: /people/
 {% endif %}
 
 
-
-
 ## Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -172,6 +170,7 @@ permalink: /people/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
 
 ## Alumni
 
