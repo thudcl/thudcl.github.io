@@ -2,14 +2,34 @@
   photo: luweiying.jpeg
   info: PhD Candidate in political methodology and international relations at Washington University in St. Louis.
   email: luwei.ying@wustl.edu
-  number_educ: 1
+  number_educ: 2
   education1: BA, Tsinghua University
+  education2: <a href="http://luweiying.org/">Personal Website</a>
 
 
 - name: Licheng LIU
   photo: lichengliu.jpg
-  info: PhD student in Methodology and Political Economy at MIT.
+  info: PhD student in methodology and political economy at MIT.
   email: liulch@mit.edu
   number_educ: 2
   education1: B.A., University of International Business and Economics
   education2: Master of Finance, Tsinghua University
+  
+  
+  - name: Jerry Qiushi YU
+  photo: qiushiyu.jpg
+  info: PhD student in political methodology and world politics at University of Michigan.
+  email: yuqiushi@umich.edu
+  number_educ: 2
+  education1: B.A., Peking University
+  education2: M.A., Peking University
+  
+  
+   - name: Hao ZHANG
+  photo: qiushiyu.jpg
+  info: PhD student in political economy and methodology at MIT.
+  email: hzhang3@mit.edu
+  number_educ: 2
+  education1: B.A., Renmin University of China
+  education2: M.A., Tsinghua and Johns Hopkins SAIS 
+
