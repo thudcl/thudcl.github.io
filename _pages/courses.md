@@ -8,18 +8,24 @@ permalink: /courses
 
 # Courses
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+## Research Design in International Relations
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
+This is an introductory course on international relations research. We will cover a variety of topics, including different research methods, research design, concept definition, measurement, theory development, hypothesis formatting and testing. Class time will be devoted to lecture, discussion of assigned readings, and students’ presentation of their own research proposals and peer comments. This is a writing-intensive course, which means that we will devote a substantial amount of time to the practices of evaluating others’ writing as well as improving our own writing skills.
+One of the purposes of this course is to assist you in writing your senior thesis in the field of International Relations. The philosophical and conceptual foundations, the research skills and methods you learn and apply in the course will help you in your independent research in your senior thesis and beyond.
  
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+## Probability and Statistics
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+What is the probability that two states will go to war in a particular year? How likely is it that Justice O’Connor will vote to grant cert in an abortion rights case? How strong is the relationship between issue preferences and voter behavior? Do domestic political institutions systematically impact currency markets?
+The use of quantitative methods allows political scientists to answer these types of questions. This course is a first look at these methods. The major topic will be probability theory and introductory inferential statistics. These two topics form the infrastructure on which all statistical work is based. To understand these more advanced methods, it is vital to have a background in these topics. Unfortunately, this means that we will read little applied research, and will devote most of our time to the abstract world of probability theory and the logic of statistical inference.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+## Intro to Quantatitive Methods
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+This is a second under-graduate course on statistics and data analysis, a continuing course of POL 345. This course provides working knowledge of data analysis using regression models. Topics include multiple regression techniques, probit and logit models for discrete outcomes, variable selection, and missing data. Students will learn how to build regression models to answer substantive questions, how to draw statistical inference for regression coefficients, and how to overcome situations when the basic model assumptions are violated by observational data. Coursework will involve using R to analyze real data sets.
+
+## Applied Bayesian statistics for the social sciences
+
+This is a graduate course on applied Bayesian statistics for the social sciences. This course is intended to introduce students to theory of Bayesian statistics and Markov chain Monte Carlo and provide students with techniques to build sophisticated statistical models to answer substative research questions. Students in the class will be able to implement Bayesian models using modern software tools, make inferences based on posterior distributions, and conduct model assessment and covergence diagnostics. Students who excel in the course will be in a position to develop innovative models and MCMC algorithms of their own, thus contributing to the field of political methodology.
