@@ -254,7 +254,6 @@ permalink: /people/
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-
   </ul>
 </div>
 
