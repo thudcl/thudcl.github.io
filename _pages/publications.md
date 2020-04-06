@@ -63,7 +63,7 @@ permalink: /publications/
 
 ## Predictive methods
 
-<div class="col-lg-2 clearfix">
+<div class="col-lg-6 clearfix">
  <div class="well">
   <pubtit>Predict the timing and location of terrorist attacks in the age of big data</pubtit>
   <p><em>Chong Chen and Xun Pang</em></p>
