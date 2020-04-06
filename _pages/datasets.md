@@ -12,9 +12,7 @@ permalink: /datasets/
 
 ### Standard Industrial Classification
 
-The Standard Industrial Classification Codes that appear in a company's disseminated EDGAR filings indicate the company's type of business. These codes are also used in the Division of Corporation Finance as a basis for assigning review responsibility for the company's filings. For example, a company whose business was Metal Mining (SIC 1000) would have its filings reviewed by staffers in A/D Office 9.
-
-[Link to the dataset](https://www.sec.gov/info/edgar/siccodes.htm)
+The Standard Industrial Classification Codes that appear in a company's disseminated EDGAR filings indicate the company's type of business. These codes are also used in the Division of Corporation Finance as a basis for assigning review responsibility for the company's filings. For example, a company whose business was Metal Mining (SIC 1000) would have its filings reviewed by staffers in A/D Office 9. <a class="button" href="https://www.sec.gov/info/edgar/siccodes.htm">Link to the dataset</a>
 
 
  
