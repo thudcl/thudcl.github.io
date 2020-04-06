@@ -67,7 +67,7 @@ permalink: /publications/
  <div class="well">
   <pubtit>Predict the timing and location of terrorist attacks in the age of big data</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/terr.png" class="img-responsive" width="50%" style="float: left" />
-  <p>A new method</p>
+  <p>A new method. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.</p>
   <p><em>Chong Chen and Xun Pang</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
  </div>
