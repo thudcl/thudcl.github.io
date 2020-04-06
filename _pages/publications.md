@@ -63,7 +63,7 @@ permalink: /publications/
 
 ## Predictive methods
 
-<div class="col-lg-6 clearfix">
+<div class="col-lg clearfix">
  <div class="well">
   <pubtit>Predict the timing and location of terrorist attacks in the age of big data</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/terr.png" class="img-responsive" width="50%" style="float: left" />
