@@ -35,8 +35,6 @@ This will enable the instrumental capabilities to visualize the different quantu
 </div>
 
 
-## Predictive methods
-
 <div class="col-lg-6 clearfix">
  <div class="well">
   <pubtit>Predict the timing and location of terrorist attacks in the age of big data</pubtit>
