@@ -65,9 +65,9 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{Predict the timing and location of terrorist attacks in the age of big data}</pubtit>
+  <pubtit>Predict the timing and location of terrorist attacks in the age of big data</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/terr.png" class="img-responsive" width="50%" style="float: left" />
-  <p>{A new method}</p>
+  <p>A new method</p>
   <p><em>Chong Chen and Xun Pang</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
  </div>
