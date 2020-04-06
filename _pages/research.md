@@ -24,3 +24,28 @@ A main goal is to use modern technology to build the new instrumentation needed 
 
 This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
 
+## Predictive methods
+
+<div class="col-lg-6 clearfix">
+ <div class="well">
+  <pubtit>Predict the timing and location of terrorist attacks in the age of big data</pubtit>
+  <p><em>Chong Chen and Xun Pang</em></p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/terr.png" class="img-responsive" width="33%" style="float: left" />
+  <p>A new method. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.A new method. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.</p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+ </div>
+</div>
+
+
+## Predictive methods
+
+<div class="col-lg-6 clearfix">
+ <div class="well">
+  <pubtit>Predict the timing and location of terrorist attacks in the age of big data</pubtit>
+  <p><em>Chong Chen and Xun Pang</em></p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/terr.png" class="img-responsive" width="33%" style="float: left" />
+  <p>A new method. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.A new method. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.</p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+ </div>
+</div>
+
