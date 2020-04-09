@@ -19,3 +19,33 @@
   highlight: 1
   news1: <a href="https://doi.org/10.1017/S0020818314000356">Stephen Chaudoin, Helen V. Milner and Xun Pang, "International Systems and Domestic Politics&colon;Linking Complex Interactions with Empirical Models in International Relations," International Organization, Vol. 69, No. 2, 2015, pp. 275-309.</a>
 
+- title: "Varying Responses to Common Shocks and Complex Cross-Sectional Dependence&colon; Dynamic Multilevel Modeling with Multifactor Error Structures for Time-Series Cross-Sectional Data"
+  image: PA2014.jpg
+  description: Multifactor error structures utilize factor analysis to deal with complex cross-sectional dependence in Time-Series Cross-Sectional data caused by cross-level interactions. The multifactor error structure specification is a generalization of the fixed-effects model. This article extends the existing multifactor error models from panel econometrics to multilevel modeling, from linear setups to generalized linear models with the probit and logistic links, and from assuming serial independence to modeling the error dynamics with an autoregressive process. I develop Markov Chain Monte Carlo algorithms mixed with a rejection sampling scheme to estimate the multilevel multifactor error structure model with a pth-order autoregressive process in linear, probit, and logistic specifications. I conduct several Monte Carlo studies to compare the performance of alternative specifications and approaches with varying degrees of data complication and different sample sizes. The Monte Carlo studies provide guidance on when and how to apply the proposed model. An empirical application sovereign default demonstrates how the proposed approach can accommodate a complex pattern of cross-sectional dependence and helps answer research questions related to units' sensitivity or vulnerability to systemic shocks.
+  authors: Xun Pang
+  link:
+  url: https://doi.org/10.1093/pan/mpu008
+  display: Political Analysis, Vol. 22, Issue 4, 2014, pp.464-496.
+  highlight: 1
+  news1: <a href="https://doi.org/10.1093/pan/mpu008">Xun Pang, "Varying Responses to Common Shocks and Complex Cross-Sectional Dependence&colon; Dynamic Multilevel Modeling with Multifactor Error Structures for Time-Series Cross-Sectional Data," Political Analysis, Vol. 22, Issue 4, 2014, pp.464-496.</a>
+
+- title: "Endogenous Jurisprudential Regimes"
+  image: PA2012.jpg
+  description: Jurisprudential regime theory is a legal explanation of decision-making on the U.S. Supreme Court that asserts that a key precedent in an area of law fundamentally restructures the relationship between case characteristics and the outcomes of future cases. In this article, we offer a multivariate multiple change-point probit model that can be used to endogenously test for the existence of jurisprudential regimes. Unlike the previously employed methods, our model does so by estimating the locations of many possible change-points along with structural parameters. We estimate the model using Markov chain Monte Carlo methods, and use Bayesian model comparison to determine the number of change-points. Our findings are consistent with jurisprudential regimes in the Establishment Clause and administrative law contexts. We find little support for hypothesized regimes in the areas of free speech and search-and-seizure. The Bayesian multivariate change-point model we propose has broad potential applications to studying structural breaks in either regular or irregular time-series data about political institutions or processes.
+  authors: Xun Pang, Barry Friedman, Andrew D. Martin, and Kevin M. Quinn
+  link:
+  url: https://doi.org/10.1093/pan/mps024
+  display: Political Analysis, Vol. 20, Issue 4, 2012, pp. 417-436.
+  highlight: 1
+  news1: <a href="https://doi.org/10.1093/pan/mps024">Xun Pang, "Endogenous Jurisprudential Regimes," Political Analysis,  Vol. 20, Issue 4, 2012 , pp. 417-436.</a>
+
+- title: "Modeling Heterogeneity and Serial Correlation in Binary Time-Series Cross-sectional Data&colon; A Bayesian Multilevel Model with AR(p) Errors"
+  image: PA2010.jpg
+  description: This paper proposes a Bayesian generalized linear multilevel model with a pth-order autoregressive error process to analyze unbalanced binary time-series cross-sectional (TSCS) data. The model specification is motivated by the generic TSCS data structure and is intended to handle the associated inefficiency and endogeneity problems. It accommodates heterogeneity across units and between time periods in the form of random intercepts and random-effect coefficients. At the same time, its pth-order autoregressive error process, employed either by itself or in concert with other dynamic methods, adequately corrects serial correlation and improves statistical inference and forecasting. With a stationarity restriction on the error process, the model can also be used as a residual-based cointegration test on discrete TSCS data. This is especially valuable because cointegration testing on discrete TSCS data is methodologically challenging and rarely conducted in practice. To handle the estimation difficulties, I developed an efficient Markov chain Monte Carlo (MCMC) algorithm by orthogonalizing the error term with the Cholesky decomposition and adding an auxiliary variable. The parameter expansion method, that is, partial group move—multigrid Monte Carlo updating (PGM-MGMC), is employed to further improve MCMC mixing and speed up convergence. The paper also provides a computational scheme to approximate the Bayes's factor for the purposes of serial correlation diagnostics, lag order determination, and variable selection. Simulated and empirical examples are used to assess the model and techniques.
+  authors: Xun Pang
+  link:
+  url: https://doi.org/10.1093/pan/mpq019
+  display: Political Analysis, Vol. 18, Issue 4, 2010, pp. 470-498.
+  highlight: 1
+  news1: <a href="https://doi.org/10.1093/pan/mpq019">Xun Pang, "Modeling Heterogeneity and Serial Correlation in Binary Time-Series Cross-sectional Data&colon; A Bayesian Multilevel Model with AR(p) Errors," Political Analysis,  Vol. 18, Issue 4, 2010, pp. 470-498.</a>
+
