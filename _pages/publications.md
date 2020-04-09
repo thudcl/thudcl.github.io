@@ -53,6 +53,8 @@ permalink: /publications/
 
 ## Full List
 
+### Publications in English
+
 - Kaitlyn Webster, **Chong Chen**, and Kyle Beardsley, "[Conflict, Peace, and the Evolution of  Women's Empowerment](https://doi.org/10.1017/S0020818319000055)," *International Organization*, Vol. 73, No. 2, 2019, pp. 255-289.   
 
 - Stephen Chaudoin, Helen V. Milner, and **Xun Pang**, "[International Systems and Domestic Politics: Linking Complex Interactions with Empirical Models in International Relations
@@ -63,5 +65,9 @@ permalink: /publications/
 - **Xun Pang**, Barry Friedman, Andrew D. Martin, and Kevin M. Quinn, "[Endogenous Jurisprudential Regimes](https://doi.org/10.1093/pan/mps024),” *Political Analysis*, Vol. 20, Issue 4, 2012, pp. 417-436.
 
 - **Xun Pang**, "[Modeling Heterogeneity and Serial Correlation in Binary TSCS Data: A Bayesian Multilevel Model with AR(p) Errors](https://doi.org/10.1093/pan/mpq019),” *Political Analysis*, Vol. 18, Issue 4, 2010, pp. 470-498.
+
+### Publications in Chinese
+
+- Chong Chen and Xun Pang,  "Predicting the Timing and Location of Terrorist Attacks in Africa in the Age of Big Data: Combing GIS and Split Population Duration Models,"  *Foreign Affairs Review* (外交评论), No. 2, 2020, pp. 82-115.
 
 
