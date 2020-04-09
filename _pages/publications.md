@@ -70,4 +70,11 @@ permalink: /publications/
 
 - Chong Chen and Xun Pang,  "Predicting the Timing and Location of Terrorist Attacks in Africa in the Age of Big Data: Combing GIS and Split Population Duration Models,"  *Foreign Affairs Review* (外交评论), No. 2, 2020, pp. 82-115.
 
+- Xun Pang Ziye Liu, "China-US Relations In Massive Machine-Coded Event Data: Influence of Reciprocity, Domestic Politics,
+and Russia ," *World Economic and Politics* (世界经济与政治), No.5, pp.53-79, 2019.
+
+- Chong Chen, ”Rethinking Opportunity, Greed, Grievance and Internal Conflict: A Spatio-Temporal Analysis of African Political Violence," *World Economics and Politics* (世界经济与政治), No. 8, 2018, pp. 94-127.
+
+- Xun Pang and Shuai Wang, “The International Political Implications of Chinese and American Foreign Aid: The Case of Voting in the United Nations General Assembly," *Social Sciences in China* (中国社会科学), No.3, pp.181-203, 2017.
+
 
