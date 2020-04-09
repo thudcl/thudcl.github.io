@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(**For a full list see [below](#full-list)**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -55,16 +55,21 @@ permalink: /publications/
 
 ### Publications in English
 
-- Kaitlyn Webster, **Chong Chen**, and Kyle Beardsley, "[Conflict, Peace, and the Evolution of  Women's Empowerment](https://doi.org/10.1017/S0020818319000055)," *International Organization*, Vol. 73, No. 2, 2019, pp. 255-289.   
+- Kaitlyn Webster, Chong Chen, and Kyle Beardsley, "[Conflict, Peace, and the Evolution of  Women's Empowerment](https://doi.org/10.1017/S0020818319000055)," *International Organization*, Vol. 73, No. 2, 2019, pp. 255-289. 
 
-- Stephen Chaudoin, Helen V. Milner, and **Xun Pang**, "[International Systems and Domestic Politics: Linking Complex Interactions with Empirical Models in International Relations
+- Xun Pang and Shuai Wang, "[The International Political Signicance of Chinese and US Foreign Aid: As Seen in United Nations
+General Assembly Voting](https://doi.org/10.1080/02529203.2018.1414391)," *Social Sciences in China*, Vol.39, No.1, pp.5-33, 2018.
+
+- Chong Chen, "[Territorial Dispute Initiation by Weaker States(https://doi.org/10.1093/cjip/poy009)," *The Chinese Journal of International Politics*, Vol. 11, No. 3, 2018, pp. 339-372. 
+
+- Stephen Chaudoin, Helen V. Milner, and Xun Pang, "[International Systems and Domestic Politics: Linking Complex Interactions with Empirical Models in International Relations
 ](https://doi.org/10.1017/S0020818314000356)," *International Organization*, Vol. 69, No. 2, 2015, pp. 275-309. 
 
-- **Xun Pang**, "[Varying Responses to Common Shocks and Complex Cross-Sectional Dependence: Dynamic Multilevel Modeling with Multifactor Error Structures for Time-Series Cross-Sectional Data](https://doi.org/10.1093/pan/mpu008),” *Political Analysis*, Vol. 22, Issue 4, 2014, pp.464-496.
+- Xun Pang, "[Varying Responses to Common Shocks and Complex Cross-Sectional Dependence: Dynamic Multilevel Modeling with Multifactor Error Structures for Time-Series Cross-Sectional Data](https://doi.org/10.1093/pan/mpu008),” *Political Analysis*, Vol. 22, Issue 4, 2014, pp.464-496.
 
-- **Xun Pang**, Barry Friedman, Andrew D. Martin, and Kevin M. Quinn, "[Endogenous Jurisprudential Regimes](https://doi.org/10.1093/pan/mps024),” *Political Analysis*, Vol. 20, Issue 4, 2012, pp. 417-436.
+- Xun Pang, Barry Friedman, Andrew D. Martin, and Kevin M. Quinn, "[Endogenous Jurisprudential Regimes](https://doi.org/10.1093/pan/mps024),” *Political Analysis*, Vol. 20, Issue 4, 2012, pp. 417-436.
 
-- **Xun Pang**, "[Modeling Heterogeneity and Serial Correlation in Binary TSCS Data: A Bayesian Multilevel Model with AR(p) Errors](https://doi.org/10.1093/pan/mpq019),” *Political Analysis*, Vol. 18, Issue 4, 2010, pp. 470-498.
+- Xun Pang, "[Modeling Heterogeneity and Serial Correlation in Binary TSCS Data: A Bayesian Multilevel Model with AR(p) Errors](https://doi.org/10.1093/pan/mpq019),” *Political Analysis*, Vol. 18, Issue 4, 2010, pp. 470-498.
 
 ### Publications in Chinese
 
