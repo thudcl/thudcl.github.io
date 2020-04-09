@@ -62,6 +62,8 @@ General Assembly Voting](https://doi.org/10.1080/02529203.2018.1414391)," *Socia
 
 - Chong Chen, "[Territorial Dispute Initiation by Weaker States](https://doi.org/10.1093/cjip/poy009)," *The Chinese Journal of International Politics*, Vol. 11, No. 3, 2018, pp. 339-372. 
 
+- Haixia Qi, "[Disputing Chinese Views on Power](https://doi.org/10.1093/cjip/pox005)," *The Chinese Journal of International Politics*, Vol. 10, No. 2, 2017, pp. 211–239.
+
 - Stephen Chaudoin, Helen V. Milner, and Xun Pang, "[International Systems and Domestic Politics: Linking Complex Interactions with Empirical Models in International Relations
 ](https://doi.org/10.1017/S0020818314000356)," *International Organization*, Vol. 69, No. 2, 2015, pp. 275-309. 
 
@@ -79,6 +81,8 @@ General Assembly Voting](https://doi.org/10.1080/02529203.2018.1414391)," *Socia
 and Russia ," *World Economic and Politics* (世界经济与政治), No.5, pp.53-79, 2019.
 
 - Chong Chen, ”Rethinking Opportunity, Greed, Grievance and Internal Conflict: A Spatio-Temporal Analysis of African Political Violence," *World Economics and Politics* (世界经济与政治), No. 8, 2018, pp. 94-127.
+
+- Haixia Qi, "Big Data and Innovation of International Relations Theory," *Social Science in China*(中国社会科学), No.6, 2018, pp.160-170.
 
 - Xun Pang and Shuai Wang, “The International Political Implications of Chinese and American Foreign Aid: The Case of Voting in the United Nations General Assembly," *Social Sciences in China* (中国社会科学), No.3, pp.181-203, 2017.
 
