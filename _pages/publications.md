@@ -60,7 +60,7 @@ permalink: /publications/
 - Xun Pang and Shuai Wang, "[The International Political Signicance of Chinese and US Foreign Aid: As Seen in United Nations
 General Assembly Voting](https://doi.org/10.1080/02529203.2018.1414391)," *Social Sciences in China*, Vol.39, No.1, pp.5-33, 2018.
 
-- Chong Chen, "[Territorial Dispute Initiation by Weaker States(https://doi.org/10.1093/cjip/poy009)," *The Chinese Journal of International Politics*, Vol. 11, No. 3, 2018, pp. 339-372. 
+- Chong Chen, "[Territorial Dispute Initiation by Weaker States](https://doi.org/10.1093/cjip/poy009)," *The Chinese Journal of International Politics*, Vol. 11, No. 3, 2018, pp. 339-372. 
 
 - Stephen Chaudoin, Helen V. Milner, and Xun Pang, "[International Systems and Domestic Politics: Linking Complex Interactions with Empirical Models in International Relations
 ](https://doi.org/10.1017/S0020818314000356)," *International Organization*, Vol. 69, No. 2, 2015, pp. 275-309. 
