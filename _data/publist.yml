@@ -1,43 +1,15 @@
-- title: "Direct evidence for flat bands in twisted bilayer graphene from nano-ARPES"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+- title: "Conflict, Peace, and the Evolution of  Women's Empowerment"
+  image: IO2019.jpg
+  description: How do periods of conflict and peace shape women's empowerment around the world? While existing studies have demonstrated that gender inequalities contribute to the propensity for armed conflict, we consider how the anticipation and realization of armed conflict shape women's opportunities for influence in society. Some scholars have pointed to the role that militarization and threat play in entrenching male dominance, while others have argued that periods of warfare can upend existing gender hierarchical orders. We posit mechanisms by which the preparation for and experiences during war affect change in women's empowerment. We develop and test observable implications using cross-national data from 1900 to 2015. We find that, at least in the short- and medium-term, warfare can disrupt social institutions and lead to an increase in women's empowerment via mechanisms related to role shifts across society and political shifts catalyzed by war. Reforming institutions and mainstreaming gender during peace processes stand to have important legacies for gender power relations in postconflict societies, though much more may be needed for more permanent change.
+  authors: Kaitlyn Webster, Chong Chen, and Kyle Beardsley
   link:
-  url: https://arxiv.org/abs/2002.02289
-  display:  arXiv:2002.02289
+  url: https://doi.org/10.1017/S0020818319000055
+  display: International Organization, Vol. 73, No. 2, 2019, pp. 255-289.
   highlight: 1
-  news2:
-
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: STS_news.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
-  link:
-  url: https://www.nature.com/articles/s41586-019-1408-8
-  display:  Nature 571, 541 (2019)
-  highlight: 1
-  news2:
+  news1: <a href="https://doi.org/10.1017/S0020818319000055">Conflict, Peace, and the Evolution of Women's Empowerment (Kaitlyn Webster, Chong Chen, and Kyle Beardsley), International Organization, Vol. 73, No. 2, 2019, pp. 255-289</a>
 
 
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-  image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
-  link:
-  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-  display:  Phys. Rev. B 100, 104506 (2019)
-  highlight: 1
-  news2:
 
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
-  link:
-  url: https://aip.scitation.org/doi/10.1063/1.5064442
-  display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
-  news2:
 
 - title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
   image: Pub_BCl.png
