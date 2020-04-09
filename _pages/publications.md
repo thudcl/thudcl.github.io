@@ -71,6 +71,8 @@ General Assembly Voting](https://doi.org/10.1080/02529203.2018.1414391)," *Socia
 
 - Xun Pang, "[Varying Responses to Common Shocks and Complex Cross-Sectional Dependence: Dynamic Multilevel Modeling with Multifactor Error Structures for Time-Series Cross-Sectional Data](https://doi.org/10.1093/pan/mpu008),” *Political Analysis*, Vol. 22, Issue 4, 2014, pp.464-496.
 
+- Xuetong Yan and Haixia Qi, "[Football Game Rather Than Boxing Match: China–US Intensifying Rivalry Does not Amount to Cold War](https://doi.org/10.1093/cjip/pos007)," *Chinese Journal of International Politics*, Vol.5, No, 2, 2012, pp. 105–127. 
+
 - Xun Pang, Barry Friedman, Andrew D. Martin, and Kevin M. Quinn, "[Endogenous Jurisprudential Regimes](https://doi.org/10.1093/pan/mps024),” *Political Analysis*, Vol. 20, Issue 4, 2012, pp. 417-436.
 
 - Xun Pang, "[Modeling Heterogeneity and Serial Correlation in Binary TSCS Data: A Bayesian Multilevel Model with AR(p) Errors](https://doi.org/10.1093/pan/mpq019),” *Political Analysis*, Vol. 18, Issue 4, 2010, pp. 470-498.
@@ -86,6 +88,10 @@ and Russia ," *World Economic and Politics* (世界经济与政治), No.5, pp.53
 
 - Haixia Qi, "Big Data and Innovation of International Relations Theory," *Social Science in China*(中国社会科学), No.6, 2018, pp.160-170.
 
+- Haixia Qi and Hao Qi, "Alliance Signals, Audience Costs and Maritime Disputes of China-Japan and  China-Philippines," *World Economics and Politics* (世界经济与政治), Vol.8, 2017, pp.106-130.
+
 - Xun Pang and Shuai Wang, “The International Political Implications of Chinese and American Foreign Aid: The Case of Voting in the United Nations General Assembly," *Social Sciences in China* (中国社会科学), No.3, pp.181-203, 2017.
+
+
 
 
