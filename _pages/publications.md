@@ -64,6 +64,8 @@ General Assembly Voting](https://doi.org/10.1080/02529203.2018.1414391)," *Socia
 
 - Haixia Qi, "[Disputing Chinese Views on Power](https://doi.org/10.1093/cjip/pox005)," *The Chinese Journal of International Politics*, Vol. 10, No. 2, 2017, pp. 211–239.
 
+- Qingqian He, "[Issue cross-pressures and time of voting decision](https://doi.org/10.1016/j.electstud.2016.08.017)," *Electoral Studies*, Vol. 44, 2016, pp. 362-373.
+
 - Stephen Chaudoin, Helen V. Milner, and Xun Pang, "[International Systems and Domestic Politics: Linking Complex Interactions with Empirical Models in International Relations
 ](https://doi.org/10.1017/S0020818314000356)," *International Organization*, Vol. 69, No. 2, 2015, pp. 275-309. 
 
