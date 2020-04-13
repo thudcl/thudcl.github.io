@@ -18,14 +18,15 @@ The Geo-Political Risk Prediction Team works with Professor Xun Pang, under a gr
 
 The Geo-Political Risk Prediction Team Members include: 
 
-*Post-Doc*
+- *Post-doc*
 
-Dr. Qingqian He
+  * Dr. Qingqian He
 
-*Graduates*
-Xiuyu Li
+- *Graduates*
 
-*Undergraduates*
+  * Xiuyu Li
+
+- *Undergraduates*
 
 
 
