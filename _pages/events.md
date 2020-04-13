@@ -8,7 +8,7 @@ permalink: /events.html
 
 # Working Group on Empirical International Studies (WGEIS) 
 
-The Working Group on Empirical International Studies (**WGEIS**) is a small biannual workshop that brings together scholars in China that use rigorous, creative empirical methods to study important topics in international relations. The inaugural meeting is expecting to be held in late Fall 2020, hosted by **DCLab** at Tsinghua University.
+The Working Group on Empirical International Studies (**WGEIS**) is a small biannual workshop that brings together scholars in China that use rigorous, creative empirical methods to study important topics in international relations. The inaugural meeting will be held in late Fall 2020, hosted by **DCLab** at Tsinghua University.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
