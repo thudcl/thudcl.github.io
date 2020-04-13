@@ -8,40 +8,27 @@ permalink: /projects/
 
 # Projects
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+## Current Projects
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
+### Theory and Methods for Predicting Geo-Political Risk
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+**PI**: Professor Xun Pang
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+The Geo-Political Risk Prediction Team works with Professor Xun Pang, under a grant from the Major Research Plan of National Social Science Foundation of China (2017-2022, RMB600,000), to develop theories and methods for predicting geo-political risks around the globe. 
 
+The Geo-Political Risk Prediction Team Members include: 
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+*Post-Doc*
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+Dr. Qingqian He
 
-## Predictive methods
+*Graduates*
+Xiuyu Li
 
-<div class="col-lg-6 clearfix">
- <div class="well">
-  <pubtit>Predict the timing and location of terrorist attacks in the age of big data</pubtit>
-  <p><em>Chong Chen and Xun Pang</em></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/terr.png" class="img-responsive" width="33%" style="float: left" />
-  <p>A new method. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.A new method. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.</p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
- </div>
-</div>
+*Undergraduates*
 
 
-<div class="col-lg-6 clearfix">
- <div class="well">
-  <pubtit>Predict the timing and location of terrorist attacks in the age of big data</pubtit>
-  <p><em>Chong Chen and Xun Pang</em></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg" class="img-responsive" width="33%" style="float: left" />
-  <p>A new method. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.A new method. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope. We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.</p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
- </div>
-</div>
+
+
+## Past Projects
 
