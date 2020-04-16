@@ -1,3 +1,33 @@
+- name: Shaozheng DONG
+  photo: dongshaozheng.jpeg
+  info: PhD student
+  email: dsz18@mails.tsinghua.edu.cn
+  number_educ: 4
+  education1: PhD student in International Relations at Tsinghua University
+  education2: MA, International Relations, University of International Relations
+  education3: BS, Mathematics, Wuhan University
+  education4: Specialties&colon; Border&semi; Diffusion of conflict&semi; Targeted sanctions 
+
+- name: Qing MENG
+  photo: mengqing.jpeg
+  info: PhD student
+  email: q-meng16@mails.tsinghua.edu.cn
+  number_educ: 4
+  education1: PhD student in International Relations at Tsinghua University
+  education2: BA, Social Science, Tsinghua University
+  education3: Double Degree in Law, Tsinghua University
+  education4: Specialties&colon; Global Governance&semi; International Organizations&semi; Text Analysis
+ 
+- name: Xian WU
+  photo: wuxian.jpeg
+  info: PhD student
+  email: wuxian19@mails.tsinghua.edu.cn
+  number_educ: 4
+  education1: PhD student in International Relations at Tsinghua University
+  education2: MA, International Politics, University of California at San Diego(UCSD)
+  education3: BA, History, Fudan University
+  education4: Specialties&colon; International Security&semi; Asia-Pacific Politics&semi; Sino-U.S. Relations 
+  
 - name: Yaqing DENG 
   photo: dengyaqing.jpeg
   info: Master student
@@ -7,16 +37,6 @@
   education2: BA, International Politics, Tsinghua University
   education3: Double Degree, Journalism, Tsinghua University  
   education4: Specialties&colon; Investor-State Dispute Settlement
-
-- name: Shaozheng DONG
-  photo: dongshaozheng.jpeg
-  info: PhD student
-  email: dsz18@mails.tsinghua.edu.cn
-  number_educ: 4
-  education1: PhD student in International Relations at Tsinghua University
-  education2: MA, International Relations, University of International Relations
-  education3: BS, Mathematics, Wuhan University
-  education4: Specialties&colon; Border&semi; Diffusion of conflict&semi; Targeted sanctions
 
 - name: Jingzhe DU
   photo: dujingzhe.jpeg
@@ -44,15 +64,6 @@
   education2: BA, International Relations, Tsinghua University
   education3: Specialties&colon; International Aid&semi; International Organizations&semi; Policy Space Theory&semi; Social Network Theory
  
-- name: Qing MENG
-  photo: mengqing.jpeg
-  info: PhD student
-  email: q-meng16@mails.tsinghua.edu.cn
-  number_educ: 4
-  education1: PhD student in International Relations at Tsinghua University
-  education2: BA, Social Science, Tsinghua University
-  education3: Double Degree in Law, Tsinghua University
-  education4: Specialties&colon; Global Governance&semi; International Organizations&semi; Text Analysis
   
 - name: Zhejun QIU
   photo: qiuzhejun.jpeg
@@ -63,15 +74,6 @@
   education2: BA, Tsinghua University
   education3: Specialties&colon; Ethnic Conflict&semi; Alliance Theory
   
-- name: Xian WU
-  photo: wuxian.jpeg
-  info: PhD student
-  email: wuxian19@mails.tsinghua.edu.cn
-  number_educ: 4
-  education1: PhD student in International Relations at Tsinghua University
-  education2: MA, International Politics, University of California at San Diego(UCSD)
-  education3: BA, History, Fudan University
-  education4: Specialties&colon; International Security&semi; Asia-Pacific Politics&semi; Sino-U.S. Relations
   
 - name: Xikun ZHANG
   photo: zhangxikun.jpeg
