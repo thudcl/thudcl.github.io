@@ -1,21 +1,84 @@
-- name: Luwei YING 
-  photo: luweiying.jpeg
-  duration: PhD Candidate in political methodology and international relations at Washington University in St. Louis.
-  info: PhD student
-  email: luwei.ying@wustl.edu
-  number_educ: 3
-  education1: BA, Tsinghua University
-  education2: Major Journalism and Communication International Relations
-  education3: <a href="http://luweiying.org/">Personal Website</a>
-  education4:
+- name: Yaqing DENG 
+  photo: dengyaqing.jpeg
+  info: Master student
+  email: dengyaqing@126.com
+  number_educ: 4
+  education1: MA, International Relations, Tsinghua University
+  education2: BA, International Politics, Tsinghua University
+  education3: Double Degree, Journalism, Tsinghua University  
+  education4: Specialties&colon; Investor-State Dispute Settlement
 
-- name: Licheng LIU
-  photo: lichengliu.jpg
+- name: Shaozheng DONG
+  photo: dongshaozheng.jpeg
   info: PhD student
-  duration: PhD student in Methodology and Political Economy at MIT.
-  email: liulch@mit.edu
+  email: dsz18@mails.tsinghua.edu.cn
+  number_educ: 4
+  education1: PhD, International Relations, Tsinghua University
+  education2: MA, International Relations, University of International Relations
+  education3: BS, Mathematics, Wuhan University
+  education4: Specialties&colon; Border&semi; Diffusion of conflict&semi; Targeted sanctions
+
+- name: Jingzhe DU
+  photo: dujingzhe.jpeg
+  info: Master student
+  email: djz19@mails.tsinghua.edu.cn
   number_educ: 2
-  education1: B.A., University of International Business and Economics
-  education2: Master of Finance, Tsinghua University
-  education3: 
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
+  education1: Dual Master Degree Program, Tsinghua University--JHU-SAIS 
+  education2: Specialties&colon; International political economy
+  
+- name: Mengting LIN
+  photo: linmengting.jpeg
+  info: Master student
+  email: lmt17@mails.tsinghua.edu.cn
+  number_educ: 3
+  education1: MA, International Relations, Tsinghua University
+  education2: BA, Fudan University
+  education3: Specialties&colon; IPE&semi; Foreign aid 
+  
+- name: Xiuyu LI
+  photo: liuxiuyu.jpeg
+  info: Master student
+  email: xiuyuli96@163.com
+  number_educ: 3
+  education1: MA, International Relations, Tsinghua University
+  education2: BA, International Relations, Tsinghua University
+  education3: Specialties&colon; International Aid&semi; International Organizations&semi; Policy Space Theory&semi; Social Network Theory
+ 
+- name: Qing MENG
+  photo: mengqing.jpeg
+  info: PhD student
+  email: q-meng16@mails.tsinghua.edu.cn
+  number_educ: 4
+  education1: PhD, International Relations, Tsinghua University
+  education2: BA, Social Science, Tsinghua University
+  education3: Double Degree in Law, Tsinghua University
+  education4: Specialties&colon; Global Governance&semi; International Organizations&semi; Text Analysis
+  
+- name: Zhejun QIU
+  photo: qiuzhejun.jpeg
+  info: Master student
+  email: chouzj19@mails.tsinghua.edu.cn
+  number_educ: 3
+  education1: Dual Master Degree Program, Tsinghua University--JHU-SAIS 
+  education2: BA, Tsinghua University
+  education3: Specialties&colon; Ethnic Conflict&semi; Alliance Theory
+  
+ - name: Xian WU
+  photo: wuxian.jpeg
+  info: PhD student
+  email: wuxian19@mails.tsinghua.edu.cn
+  number_educ: 4
+  education1: PhD, International Relations, Tsinghua University
+  education2: MA, International Politics, University of California at San Diego(UCSD)
+  education3: BA, History, Fudan University
+  education4: Specialties&colon; International Security&semi; Asia-Pacific Politics&semi; Sino-U.S. Relations
+  
+- name: Xikun ZHANG
+  photo: zhangxikun.jpeg
+  info: Master student
+  email: zhangxikun14@126.com
+  number_educ: 3
+  education1: MA, International Relations, Tsinghua University
+  education2: BA,International Politics, Tsinghua University
+  education3: Specialties&colon; Internationalization of Renminbi&semi; East Asia International Relations
+  
