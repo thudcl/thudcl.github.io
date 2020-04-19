@@ -58,12 +58,11 @@ We have three broad missions:<br>
 </font>
         
         
-- **Research**  (see [Projects](projects))
+- **Research**: To promote studies on key issues in global governance, establish IR data computing platforms, advance IR methodologies, especially statistical methods, thus evaluating the causal effects of major policies on global governance and developing the scientific warning system for global governance. (see [Projects](projects))
 
-- **Teaching** (see [Courses](courses))
+- **Teaching**: To expand its academic influence, spread academic achievements, extend academic networks, and gather academic resources through teaching and training series, and to provide students with opportunities for both research participation and independent research guidance. (see [Courses](courses))
 
-- **Service**  (see [Events](events))
-
+- **Service**: To provide service on programming and research to students and faculty through trainings on data processing, statistical techniques, programming languages, and other scientific authoring software, such as R, LaTeX, coordinating with the School of Social Sciences and the Department of International Relations. (see [Events](events))
 
 In fulfilling these missions, we bring together scholars and students attuned to the research frontier and with advanced capabilities in causal inference, applied statistics, programming, web scraping and geospatial analysis.
 
