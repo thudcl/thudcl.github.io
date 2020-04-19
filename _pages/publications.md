@@ -81,6 +81,8 @@ General Assembly Voting](https://doi.org/10.1080/02529203.2018.1414391)," *Socia
 
 - Chong Chen and Xun Pang, "Predicting the Timing and Location of Terrorist Attacks in Africa in the Age of Big Data: Combing GIS and Split Population Duration Models,"  *Foreign Affairs Review* (外交评论), No. 2, 2020, pp. 121-154.
 
+- Qingqian He and Daniel Naurin, "Brexit and Redistribution of EU Power: A Social Network Analysis Based on Survey Data," *Chinese Journal of European Studies*(欧洲研究)，No. 1, 2020, pp.27-54.
+
 - Xuefeng Sun and Xikun Zhang, "China and US Strategic Choices and China's Relations with Its Neighbors," *Contemporary International Relations* (现代国际关系), Vol.29, No. 5, 2019, pp. 36-46.
 
 - Xun Pang Ziye Liu, "China-US Relations In Massive Machine-Coded Event Data: Influence of Reciprocity, Domestic Politics,
@@ -89,6 +91,8 @@ and Russia ," *World Economic and Politics* (世界经济与政治), No.5, pp.53
 - Chong Chen, ”Rethinking Opportunity, Greed, Grievance and Internal Conflict: A Spatio-Temporal Analysis of African Political Violence," *World Economics and Politics* (世界经济与政治), No. 8, 2018, pp. 94-127.
 
 - Haixia Qi, "Big Data and Innovation of International Relations Theory," *Social Science in China*(中国社会科学), No.6, 2018, pp.160-170.
+
+- Qingqian He, "Cultural Resistance or Cultural Backlash? The Comparison of Causal Effects of the Rise of Populist Radical Right in Western Europe," *World Economics and Politics* (世界经济与政治)，NO.12, 2017, pp.103-131.    
 
 - Haixia Qi and Hao Qi, "Alliance Signals, Audience Costs and Maritime Disputes of China-Japan and  China-Philippines," *World Economics and Politics* (世界经济与政治), Vol.8, 2017, pp.106-130.
 
