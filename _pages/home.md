@@ -49,7 +49,7 @@ permalink: /
   </a>
 </div>
 
-The **DCLab@Tsinghua** is an applied learning environment that connects faculty and graduate students from several departments and schools at Tsinghua and elsewhere who have extensive experience in both quantitative international political economy and international security, including a broad range of research questions in the areas of foreign aid, trade, FDI, armed conflict, political violence and arms sales.
+The **Tsinghua International Relations Data & Computing Lab** (**DCLab@Tsinghua**) is an applied learning environment that connects faculty and graduate students from several departments and schools at Tsinghua and elsewhere who have extensive experience in both quantitative international political economy and international security, including a broad range of research questions in the areas of foreign aid, trade, FDI, armed conflict, political violence and arms sales.
 
 <font size="4"
 face="verdana"
