@@ -9,7 +9,7 @@
 title: Tsinghua International Relations Data and Computing Lab
 email: thudcl@163.com
 description: The Tsinghua International Relations Data and Computing Lab (THU-DCL) is a dynamic research group at Tsinghua University. Our aim is to explore and understand the complexity of international relations data and methods.
-baseurl: ""
+baseurl: "thudcl.github.io"
 url: ""
 
 include:
