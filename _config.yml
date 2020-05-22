@@ -15,7 +15,7 @@ url: "thudcl.github.io"
 include:
   - .htaccess
   - _pages
-  -files
+  - files
 
 sass:
   sass_dir: _sass
