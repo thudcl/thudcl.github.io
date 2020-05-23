@@ -8,7 +8,7 @@ permalink: /people/
 
 # Lab Members
 
-**[Faculty](#faculty), [Graduate Students](#graduate-students), [Undergraduate Students](#undergraduate-students), [Affiliated-Faculty](#affiliated-faculty), [Alumni](#alumni)**
+**[Faculty](#faculty), [Graduate Students](#graduate-students), [Undergraduate Students](#undergraduate-students), [Affiliated Researchers](#affiliated-researchers), [Alumni](#alumni)**
 
 ## Faculty
 {% assign number_printed = 0 %}
@@ -225,7 +225,7 @@ permalink: /people/
 {% endif %}
 
 
-## Affiliated Faculty 
+## Affiliated Researchers 
 
 {% assign number_printed = 0 %}
 {% for member in site.data.affiliates %}
