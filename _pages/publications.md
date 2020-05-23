@@ -55,6 +55,11 @@ permalink: /publications/
 
 ### Publications in English
 
+- Feng Liu, "[The Recalibrating of Chinese Assertiveness: China’s Responses to the Indo–Pacific Challenge](https://doi.org/10.1093/ia/iiz226),” *International Affairs*, Vol. 96, No. 1, 2020, pp. 9-27.
+
+- Feng Liu and Ruonan Liu, “[China, the United States, and Order Transition in East Asia: An Economy-Security Nexus
+Approach](https://doi.org/10.1080/09512748.2018.1526205),” *The Pacific Review*, Vol. 32, No. 6, 2019, pp. 972-995.
+
 - Kaitlyn Webster, Chong Chen, and Kyle Beardsley, "[Conflict, Peace, and the Evolution of  Women's Empowerment](https://doi.org/10.1017/S0020818319000055)," *International Organization*, Vol. 73, No. 2, 2019, pp. 255-289. 
 
 - Xun Pang and Shuai Wang, "[The International Political Signicance of Chinese and US Foreign Aid: As Seen in United Nations
