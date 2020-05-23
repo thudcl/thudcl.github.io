@@ -8,7 +8,7 @@ permalink: /people/
 
 # Lab Members
 
-[Faculty](#Faculty), [Graduate Students](#Graduate-Students), [Undergraduate Students](#Undergraduate-Students), [Affiliated-Faculty](#Affiliated-Faculty), [Alumni](#Alumni)
+[Faculty](#faculty), [Graduate Students](#graduate-students), [Undergraduate Students](#Undergraduate-Students), [Affiliated-Faculty](#Affiliated-Faculty), [Alumni](#alumni)
 
 ## Faculty
 {% assign number_printed = 0 %}
