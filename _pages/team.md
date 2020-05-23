@@ -225,7 +225,7 @@ permalink: /people/
 {% endif %}
 
 
-## Affiliated Faculty & Visiting Scholars
+## Affiliated Faculty 
 
 {% assign number_printed = 0 %}
 {% for member in site.data.affiliates %}
