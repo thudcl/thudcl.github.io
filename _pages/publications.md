@@ -55,6 +55,8 @@ permalink: /publications/
 
 ### Publications in English
 
+- Chong Chen and Kyle Beardsley, "[Once and Future Peacemakers: Continuity of Third-party Involvement in Civil War Peace Processes](https://doi.org/10.1080/13533312.2020.1768074)," *International Peacekeeping*, Vol. 27, No. 4, 2020, pp.1-27. 
+
 - Feng Liu, "[The Recalibrating of Chinese Assertiveness: China’s Responses to the Indo–Pacific Challenge](https://doi.org/10.1093/ia/iiz226),” *International Affairs*, Vol. 96, No. 1, 2020, pp. 9-27.
 
 - Feng Liu and Ruonan Liu, “[China, the United States, and Order Transition in East Asia: An Economy-Security Nexus
