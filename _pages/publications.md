@@ -55,6 +55,8 @@ permalink: /publications/
 
 ### Publications in English
 
+- Kaitlyn Webster, Priscilla Torres, Chong Chen, and Kyle Beardsley,  "[Ethnic and Gender Hierarchies in the Crucible of War](https://doi.org/10.1093/isq/sqaa031)," *International Studies Quarterly*, Online first, 2020, pp. 1-13.
+
 - Chong Chen and Kyle Beardsley, "[Once and Future Peacemakers: Continuity of Third-party Involvement in Civil War Peace Processes](https://doi.org/10.1080/13533312.2020.1768074)," *International Peacekeeping*, Vol. 27, No. 4, 2020, pp.1-27. 
 
 - Feng Liu, "[The Recalibrating of Chinese Assertiveness: China’s Responses to the Indo–Pacific Challenge](https://doi.org/10.1093/ia/iiz226),” *International Affairs*, Vol. 96, No. 1, 2020, pp. 9-27.
@@ -64,7 +66,7 @@ Approach](https://doi.org/10.1080/09512748.2018.1526205),” *The Pacific Review
 
 - Kaitlyn Webster, Chong Chen, and Kyle Beardsley, "[Conflict, Peace, and the Evolution of  Women's Empowerment](https://doi.org/10.1017/S0020818319000055)," *International Organization*, Vol. 73, No. 2, 2019, pp. 255-289. 
 
-- Xun Pang and Shuai Wang, "[The International Political Signicance of Chinese and US Foreign Aid: As Seen in United Nations
+- Xun Pang and Shuai Wang, "[The International Political Significance of Chinese and US Foreign Aid: As Seen in United Nations
 General Assembly Voting](https://doi.org/10.1080/02529203.2018.1414391)," *Social Sciences in China*, Vol.39, No.1, pp.5-33, 2018.
 
 - Chong Chen, "[Territorial Dispute Initiation by Weaker States](https://doi.org/10.1093/cjip/poy009)," *The Chinese Journal of International Politics*, Vol. 11, No. 3, 2018, pp. 339-372. 
@@ -85,6 +87,8 @@ General Assembly Voting](https://doi.org/10.1080/02529203.2018.1414391)," *Socia
 - Xun Pang, "[Modeling Heterogeneity and Serial Correlation in Binary TSCS Data: A Bayesian Multilevel Model with AR(p) Errors](https://doi.org/10.1093/pan/mpq019),” *Political Analysis*, Vol. 18, Issue 4, 2010, pp. 470-498.
 
 ### Publications in Chinese
+
+- Xun Pang and Chong Chen, "The Hirschman Effect of International Finance," *World Economics and Politics* (世界经济与政治), No. 6, 2020, pp. 132-155.
 
 - Chong Chen and Xun Pang, "Predicting the Timing and Location of Terrorist Attacks in Africa in the Age of Big Data: Combing GIS and Split Population Duration Models,"  *Foreign Affairs Review* (外交评论), No. 2, 2020, pp. 121-154.
 
